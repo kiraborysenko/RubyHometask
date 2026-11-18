@@ -1,0 +1,7 @@
+metric,count
+INFO,2
+WARN,1
+ERROR,2
+INVALID,1
+TOTAL,6
+top_error: Database timeout,2

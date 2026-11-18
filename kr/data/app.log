@@ -1,0 +1,6 @@
+2026-11-16 10:00:00 INFO Application started
+2026-11-16 10:02:15 ERROR Database timeout
+2026-11-16 10:04:00 INFO Recovered after ERROR in payment
+broken log line
+2026-11-16 10:05:00 ERROR Database timeout
+2026-11-16 10:07:00 WARN Slow response
